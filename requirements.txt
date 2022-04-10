@@ -5,8 +5,9 @@ matplotlib
 nltk
 tqdm
 ast
-sklearn
+scikit-learn==0.22.2
 keras
 xgboost
 base64
 pickle
+mlxtend
