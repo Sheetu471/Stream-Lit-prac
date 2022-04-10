@@ -1,5 +1,13 @@
 numpy
 pandas
-streamlit
-multiclass
-scikit-learn==1.0.2
+seaborn
+matplotlib
+nltk
+re
+tqdm
+ast
+sklearn
+keras
+xgboost
+base64
+pickle
