@@ -5,7 +5,7 @@ matplotlib
 nltk
 tqdm
 ast
-scikit-learn==0.22.2
+scikit-learn==1.0.2
 keras
 xgboost
 base64
