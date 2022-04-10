@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run NBME-health-app.py
+web: sh setup.sh && streamlit run nbme-health-app.py
