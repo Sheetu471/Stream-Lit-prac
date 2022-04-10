@@ -3,7 +3,6 @@ pandas
 seaborn
 matplotlib
 nltk
-re
 tqdm
 ast
 sklearn
